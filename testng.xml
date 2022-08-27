@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <methods thread-count="5" name="Test">
+    <classes>
+      <class name="TestNGDemo.Day1"/>
+      <methods>
+         <method>
+            <include name="demo2" />>
+        </method>/
+      </methods>
+       <class name="TestNGDemo.day2"/>
+         <methods>
+         <method>
+       
+       		<include name="demo3" />
+         </method>
+      </methods>
+       <class name="TestNGDemo.day3"/>
+      <methods>
+       		<exclude name="WebLoginHomeLoan" />
+       		   </methods>
+       <class name="TestNGDemo.Day4"/>
+       <methods>
+       <method>
+       <include name="Mobile.*"
+       </method>
+  </methods>
+       
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

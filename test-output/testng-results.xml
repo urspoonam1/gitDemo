@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-08-17T14:29:25 CDT" name="Default suite" finished-at="2022-08-17T14:29:25 CDT" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2022-08-17T14:29:25 CDT" name="Default test" finished-at="2022-08-17T14:29:25 CDT" duration-ms="33">
+      <class name="TestNGDemo.Day4">
+        <test-method signature="MobileLoginHomeLoan()[pri:-2, instance:TestNGDemo.Day4@45b9a632]" started-at="2022-08-17T14:29:25 CDT" name="MobileLoginHomeLoan" finished-at="2022-08-17T14:29:25 CDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan -->
+        <test-method signature="APILoginPersonalLoan()[pri:-1, instance:TestNGDemo.Day4@45b9a632]" started-at="2022-08-17T14:29:25 CDT" name="APILoginPersonalLoan" finished-at="2022-08-17T14:29:25 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginPersonalLoan -->
+        <test-method signature="MobileLoginHomeLoan1()[pri:0, instance:TestNGDemo.Day4@45b9a632]" started-at="2022-08-17T14:29:25 CDT" name="MobileLoginHomeLoan1" finished-at="2022-08-17T14:29:25 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan1 -->
+        <test-method signature="MobileLoginHomeLoan2()[pri:0, instance:TestNGDemo.Day4@45b9a632]" started-at="2022-08-17T14:29:25 CDT" name="MobileLoginHomeLoan2" finished-at="2022-08-17T14:29:25 CDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileLoginHomeLoan2 -->
+        <test-method signature="WebLoginHomeLoan()[pri:1, instance:TestNGDemo.Day4@45b9a632]" started-at="2022-08-17T14:29:25 CDT" name="WebLoginHomeLoan" finished-at="2022-08-17T14:29:25 CDT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- WebLoginHomeLoan -->
+      </class> <!-- TestNGDemo.Day4 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
